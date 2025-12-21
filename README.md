@@ -59,7 +59,7 @@
 ---
 
 ## 🎯 Current Goals
-- ✅ Master Python basics & logic building
+- ✅ Master Python basics & logic building 
 - ✅ Become confident in DSA using C
 - 🔜 Start Machine Learning fundamentals
 - 🔜 Build real-world beginner projects
