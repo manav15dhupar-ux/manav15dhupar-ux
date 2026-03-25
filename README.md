@@ -7,17 +7,27 @@
 
 I am a B.Tech student specializing in **Artificial Intelligence & Machine Learning**, focused on building strong programming fundamentals through structured, project-driven learning.
 
-My current emphasis is on writing clean, modular Python code and developing a solid understanding of system design principles. Over time, I aim to transition into **Machine Learning systems and deployment workflows (MLOps)**.
+My current emphasis is on writing clean, modular Python code, solving problems using **DSA in C++**, and developing a solid understanding of system design principles. I have also started **Competitive Programming** to strengthen problem-solving speed and accuracy.
+
+Over time, I aim to transition into **Machine Learning systems and deployment workflows (MLOps)**.
 
 I approach learning with consistency, discipline, and long-term skill development in mind.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,docker" />
+</p>
+
+---
+
+## 🧠 Technical Skills
 
 **Languages**
 - Python (Intermediate — OOP fundamentals, file handling, CLI-based systems)
-- C (Foundational)
+- C++ (DSA + Competitive Programming)
 
 **Core Programming Concepts**
 - Control flow & conditional logic
@@ -29,9 +39,28 @@ I approach learning with consistency, discipline, and long-term skill developmen
 
 **Currently Developing**
 - Advanced Python (testing, packaging, clean code practices)
-- Data Structures & Algorithms
+- Data Structures & Algorithms (C++)
+- Competitive Programming
 - Linux fundamentals
 - Docker & CI/CD basics
+
+---
+
+## 🧩 Coding Profiles
+
+<p align="left">
+  🔹 LeetCode: https://leetcode.com/u/Manav0089999/  
+  🔹 Codeforces: https://codeforces.com/profile/Manav2006  
+</p>
+
+---
+
+## 📌 Current Focus
+
+- Solving 2–3 DSA problems daily (C++)
+- Strengthening problem-solving via Competitive Programming
+- Writing cleaner, modular Python code
+- Learning Linux and backend fundamentals
 
 ---
 
@@ -78,17 +107,10 @@ Reinforces control flow and user interaction handling.
 ## 🎯 2026 Focus
 
 - Strengthen Python toward production-level quality  
-- Master Data Structures & Algorithms  
+- Master Data Structures & Algorithms (C++)  
+- Improve Competitive Programming rating  
 - Build applied Machine Learning projects  
 - Begin implementing deployment-focused MLOps practices  
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manav15dhupar-ux&show_icons=true&hide_border=true&theme=tokyonight" height="170" />
-</p>
 
 ---
 
