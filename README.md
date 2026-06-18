@@ -1,125 +1,170 @@
-<h1 align="center">Manav Dhupar</h1>
-<h3 align="center">B.Tech AI/ML Student | Aspiring MLOps Engineer | Python Developer</h3>
+<h1 align="center">Hi 👋, I'm Manav Dhupar</h1>
+<h3 align="center">B.Tech AI/ML Student | Python Developer | DSA & Competitive Programming Enthusiast</h3>
+
+<p align="center">
+  Passionate about building strong programming fundamentals through consistent learning, problem-solving, and practical projects.
+</p>
+
+<p align="center">
+  <a href="https://github.com/manav15dhupar-ux">
+    <img src="https://komarev.com/ghpvc/?username=manav15dhupar-ux&label=Profile%20Views" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a B.Tech student specializing in **Artificial Intelligence & Machine Learning**, focused on building strong programming fundamentals through structured, project-driven learning.
+I am a B.Tech student specializing in **Artificial Intelligence & Machine Learning** with a strong focus on building solid programming and software development fundamentals.
 
-My current emphasis is on writing clean, modular Python code, solving problems using **DSA in C++**, and developing a solid understanding of system design principles. I have also started **Competitive Programming** to strengthen problem-solving speed and accuracy.
+Currently, I am focused on:
 
-Over time, I aim to transition into **Machine Learning systems and deployment workflows (MLOps)**.
+- Python Programming
+- Data Structures & Algorithms (C++)
+- Competitive Programming
+- Linux Fundamentals
+- Git & GitHub
+- Software Engineering Best Practices
 
-I approach learning with consistency, discipline, and long-term skill development in mind.
+My goal is to become a skilled software engineer with strong problem-solving abilities and eventually work on AI and Machine Learning systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode" />
 </p>
+
+### Languages
+- Python
+- C++
+
+### Tools
+- Git
+- GitHub
+- Linux
+- VS Code
 
 ---
 
 ## 🧠 Technical Skills
 
-**Languages**
-- Python (Intermediate — OOP fundamentals, file handling, CLI-based systems)
-- C++ (DSA + Competitive Programming)
+### Python
+- Functions & Modular Programming
+- Object-Oriented Programming (Basics)
+- File Handling
+- Exception Handling
+- Dictionaries, Lists, Tuples & Sets
+- Menu-Driven Applications
+- Input Validation
 
-**Core Programming Concepts**
-- Control flow & conditional logic
-- Functions & modular design
-- Lists & dictionaries
-- Input validation
-- Menu-driven application structure
-- Git (branching & version control workflows)
-
-**Currently Developing**
-- Advanced Python (testing, packaging, clean code practices)
-- Data Structures & Algorithms (C++)
+### C++
+- Data Structures & Algorithms
+- Problem Solving
 - Competitive Programming
-- Linux fundamentals
-- Docker & CI/CD basics
+
+### Development
+- Git Version Control
+- GitHub Workflows
+- Code Organization
+- Debugging
+- CLI Application Development
 
 ---
 
-## 🧩 Coding Profiles
+## 📚 Currently Learning
 
-<p align="left">
-  🔹 LeetCode: https://leetcode.com/u/Manav0089999/  
-  🔹 Codeforces: https://codeforces.com/profile/Manav2006  
-</p>
-
----
-
-## 📌 Current Focus
-
-- Solving 2–3 DSA problems daily (C++)
-- Strengthening problem-solving via Competitive Programming
-- Writing cleaner, modular Python code
-- Learning Linux and backend fundamentals
+- Advanced Python
+- Data Structures & Algorithms
+- Competitive Programming
+- Linux Fundamentals
+- Software Engineering Practices
+- Introduction to Machine Learning
 
 ---
 
-## 🧪 Python Projects
+## 🚀 Featured Projects
 
-The following projects from my `Python-projects` repository demonstrate practical application of core programming concepts:
+### 💰 Expense Tracker
+CLI-based application for recording and tracking daily expenses.
 
-### 1. Expense Tracker
-CLI-based application for recording and monitoring daily expenses.  
-Implements structured input handling and basic data tracking logic.
+### 🏪 Indian General Store Bill Generator
+Billing application for calculating purchase totals and generating invoices.
 
-### 2. Indian General Store Bill Generator
-Billing system to calculate total purchase amounts.  
-Applies conditional logic, formatted output, and arithmetic operations.
+### 🎓 Student Result Management System
+Python-based academic record management system using dictionaries.
 
-### 3. Student Result Management System
-Search-based system for tracking student marks and academic details.  
-Utilizes dictionaries and logical filtering for record management.
+### 📞 Phone Directory
+Contact management application supporting add, search, update, and delete operations.
 
-### 4. Phone Directory
-Contact management system built using Python dictionaries.  
-Supports add, search, and manage operations.
+### 👨‍💼 Employee Database
+Employee salary management system demonstrating structured data handling.
 
-### 5. Employee Database
-Employee salary management system using lists of dictionaries.  
-Demonstrates structured data storage and record manipulation.
-
-### 6. Snake–Water–Gun Game
-Menu-driven terminal game using the `random` module and conditional logic.  
-Reinforces control flow and user interaction handling.
+### 🎮 Snake-Water-Gun Game
+Interactive terminal game using Python's random module and conditional logic.
 
 ---
 
 ## 📈 What These Projects Demonstrate
 
-- Strong foundation in Python fundamentals  
-- Ability to design structured CLI applications  
-- Practical use of data structures (lists & dictionaries)  
-- Logical problem-solving approach  
-- Organized project structure and workflow  
+- Strong Python Fundamentals
+- Problem-Solving Skills
+- Practical Use of Data Structures
+- CLI Application Development
+- Input Validation Techniques
+- Organized Project Structure
+- Version Control Workflow
 
 ---
 
-## 🎯 2026 Focus
+## 🧩 Coding Profiles
 
-- Strengthen Python toward production-level quality  
-- Master Data Structures & Algorithms (C++)  
-- Improve Competitive Programming rating  
-- Build applied Machine Learning projects  
-- Begin implementing deployment-focused MLOps practices  
+### LeetCode
+🔹 https://leetcode.com/u/Manav0089999/
 
----
-
-## 🤝 Connect
-
-- 📧 Email: manav15dhupar@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/manav-dhupar  
-- 💻 GitHub: https://github.com/manav15dhupar-ux  
+### Codeforces
+🔹 https://codeforces.com/profile/Manav2006
 
 ---
 
-<p align="center"><i>Focused on building reliable systems and continuously improving engineering depth.</i></p>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=manav15dhupar-ux&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav15dhupar-ux&layout=compact" />
+</p>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=manav15dhupar-ux" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Master Python Development
+- Strengthen DSA & Competitive Programming
+- Build Larger Real-World Projects
+- Learn Backend Development Fundamentals
+- Explore Machine Learning Workflows
+- Contribute to Open Source Projects
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: **manav15dhupar@gmail.com**
+
+💼 LinkedIn: **https://linkedin.com/in/manav-dhupar**
+
+💻 GitHub: **https://github.com/manav15dhupar-ux**
+
+---
+
+<p align="center">
+  <i>Learning consistently, building projects, and improving one step at a time.</i>
+</p>
